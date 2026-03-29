@@ -1,0 +1,21 @@
+# buyahouseafterbankruptcy.com
+
+> Complete guide to buying a home after Chapter 7 or Chapter 13 bankruptcy.
+
+buyahouseafterbankruptcy.com is a free, open-source educational resource about homeownership after bankruptcy. Part of the Open Bankruptcy Project.
+
+## Pages
+
+- https://buyahouseafterbankruptcy.com/: Overview of buying a house after bankruptcy
+- https://buyahouseafterbankruptcy.com/fha-loan.html: FHA loans after bankruptcy -- requirements and waiting periods
+- https://buyahouseafterbankruptcy.com/va-loan.html: VA loans after bankruptcy for veterans
+- https://buyahouseafterbankruptcy.com/conventional-mortgage.html: Conventional mortgages after bankruptcy
+- https://buyahouseafterbankruptcy.com/waiting-periods.html: Waiting periods by loan type after Chapter 7 and Chapter 13
+- https://buyahouseafterbankruptcy.com/improving-credit.html: Improving your credit score before applying for a mortgage
+- https://buyahouseafterbankruptcy.com/down-payment-help.html: Down payment assistance programs for post-bankruptcy buyers
+- https://buyahouseafterbankruptcy.com/rent-to-own.html: Rent to own as a path to homeownership after bankruptcy
+- https://buyahouseafterbankruptcy.com/faq.html: Frequently asked questions about buying a house after bankruptcy
+
+## Contact
+
+This site is maintained by volunteers. No legal advice is provided.

@@ -1,0 +1,16 @@
+{
+  "name": "Buying a House After Bankruptcy",
+  "short_name": "buyahouseafterbankruptcy.com",
+  "description": "Complete guide to buying a home after Chapter 7 or Chapter 13 bankruptcy. FHA, VA, conventional loans, waiting periods, and down payment assistance.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
